@@ -1,0 +1,29 @@
+.metal-prices-dashboard {
+    max-width: 1200px;
+}
+
+.metal-prices-dashboard .card {
+    margin-bottom: 20px;
+}
+
+.metal-prices-dashboard table {
+    margin-top: 15px;
+}
+
+.metal-prices-dashboard .button {
+    margin-bottom: 15px;
+}
+
+.form-table th {
+    width: 200px;
+}
+
+.form-table input[type="text"],
+.form-table select {
+    width: 25em;
+}
+
+.form-table fieldset label {
+    display: block;
+    margin-bottom: 5px;
+}
